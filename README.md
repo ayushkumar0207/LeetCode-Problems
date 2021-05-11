@@ -9,3 +9,4 @@
 | 6. | Find All Duplicates in an Array | https://leetcode.com/problems/find-all-duplicates-in-an-array/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/allDuplicatesInArray.java |
 | 7. | Majority Element | https://leetcode.com/problems/majority-element/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/MajorityElement.java |
 | 8. | Max Consecutive Ones | https://leetcode.com/problems/max-consecutive-ones/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/maxConsecutiveOnes.java |
+| 9. | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/trappingRainWater.java |
