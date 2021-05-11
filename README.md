@@ -10,3 +10,4 @@
 | 7. | Majority Element | https://leetcode.com/problems/majority-element/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/MajorityElement.java |
 | 8. | Max Consecutive Ones | https://leetcode.com/problems/max-consecutive-ones/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/maxConsecutiveOnes.java |
 | 9. | Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/trappingRainWater.java |
+| 10. | N-th Tribonacci Number | https://leetcode.com/problems/n-th-tribonacci-number/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/tribonacciNumber.java |
