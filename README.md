@@ -8,3 +8,4 @@
 | 5. | Find All Numbers Disappeared in an Array | https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/disappearingNumbersInArray.java |
 | 6. | Find All Duplicates in an Array | https://leetcode.com/problems/find-all-duplicates-in-an-array/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/allDuplicatesInArray.java |
 | 7. | Majority Element | https://leetcode.com/problems/majority-element/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/MajorityElement.java |
+| 8. | Max Consecutive Ones | https://leetcode.com/problems/max-consecutive-ones/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/maxConsecutiveOnes.java |
