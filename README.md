@@ -13,3 +13,4 @@
 | 10. | N-th Tribonacci Number | https://leetcode.com/problems/n-th-tribonacci-number/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/tribonacciNumber.java |
 | 11. | Maximum Ice Cream Bars | https://leetcode.com/problems/maximum-ice-cream-bars/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/MaximumIceCreamBars.java |
 | 12. | Sort Colors | https://leetcode.com/problems/sort-colors/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/SortColors.java |
+| 13. | Middle of the Linked List | https://leetcode.com/problems/middle-of-the-linked-list/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/MiddleoftheLinkedList.java |
