@@ -15,3 +15,4 @@
 | 12. | Sort Colors | https://leetcode.com/problems/sort-colors/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/SortColors.java |
 | 13. | Middle of the Linked List | https://leetcode.com/problems/middle-of-the-linked-list/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/MiddleoftheLinkedList.java |
 | 14. | Swapping Nodes in a Linked List | https://leetcode.com/problems/swapping-nodes-in-a-linked-list/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/SwappingNodesInALinked%20List.java |
+| 15. | Number of Good Pairs | https://leetcode.com/problems/number-of-good-pairs/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/NumberOfGoodPairs.java |
