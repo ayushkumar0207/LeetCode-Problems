@@ -16,3 +16,4 @@
 | 13. | Middle of the Linked List | https://leetcode.com/problems/middle-of-the-linked-list/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/MiddleoftheLinkedList.java |
 | 14. | Swapping Nodes in a Linked List | https://leetcode.com/problems/swapping-nodes-in-a-linked-list/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/SwappingNodesInALinked%20List.java |
 | 15. | Number of Good Pairs | https://leetcode.com/problems/number-of-good-pairs/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/NumberOfGoodPairs.java |
+| 16. | Merge Intervals | https://leetcode.com/problems/merge-intervals/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/MergeIntervals.java |
