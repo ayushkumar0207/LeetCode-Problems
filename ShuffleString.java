@@ -6,5 +6,4 @@ class Solution {
         }
         return new String(ch);
     }
-    
 }
