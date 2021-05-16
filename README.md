@@ -19,3 +19,4 @@
 | 16. | Merge Intervals | https://leetcode.com/problems/merge-intervals/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/MergeIntervals.java |
 | 17. | Shuffle String | https://leetcode.com/problems/shuffle-string/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/ShuffleString.java |
 | 18. | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/CorrespondingNodeOfBinaryTree.java |
+| 19. | Range Sum of BST | https://leetcode.com/problems/range-sum-of-bst/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/RangeSumOfBST.java |
