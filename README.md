@@ -23,3 +23,10 @@
 | 20. | Binary Tree Inorder Traversal | https://leetcode.com/problems/binary-tree-inorder-traversal/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/BinaryTreeInorderTraversal.java |
 | 21. | Binary Tree Preorder Traversal | https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/BinaryTreePreorderTraversal.java |
 | 22. | Binary Tree Postorder Traversal | https://leetcode.com/problems/binary-tree-postorder-traversal/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/BinaryTreePostorderTraversal.java |
+| 23. | Subrectangle Queries | https://leetcode.com/problems/subrectangle-queries/ | https://github.com/ayushkumar0207/LeetCode-Problems/blob/main/SubrectangleQueries.java |
+
+
+
+
+
+
